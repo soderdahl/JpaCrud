@@ -16,7 +16,7 @@ public class JPA_ex1 {
     static boolean loop = true;
  
     public static void main(String[] args) {
-      //  findPersonByName();
+       
         while (loop) {
             switchChoice(menu());
         }
